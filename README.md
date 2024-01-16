@@ -2,7 +2,7 @@
 <p align="center">
   <a href="#">Resume</a> •
   <a href="https://vishruthb.github.io/">Website</a> •
-  <a href="https://twitter.com/vishruthb">Twitter</a> •
+  <a href="https://twitter.com/vishruthbx">Twitter</a> •
   <a href="https://www.linkedin.com/in/vishb/">LinkedIn</a>
 </p>
 
