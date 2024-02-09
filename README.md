@@ -14,6 +14,6 @@ I'm a student 🎓 at the University of California, Santa Cruz studying
 -------
 <h3 align="center">🍎 About Me</h3>
 
-- 🔬 Research Lead (Machine Learning Group) at [Tech4Good Social Computing Laboratory](https://tech4good.soe.ucsc.edu/#))
+- 🔬 Research Lead (Machine Learning Group) at [Tech4Good Social Computing Laboratory](https://tech4good.soe.ucsc.edu/#)
 - ⚡ Software Engineer Intern at [Sennovate](https://sennovate.com/)
 - 📬 Reach out to me @ [`vbharath@ucsc.edu`](mailto:vbharath@ucsc.edu) to chat!
