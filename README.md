@@ -8,12 +8,12 @@
 
 
 I'm a student 🎓 at the University of California, Santa Cruz studying
-- 🖱️ **Computer Science** for Deep Learning & Systems
+- 🖱️ **Computer Science** for Deep Learning, Algorithms, and Systems
 - 🧮 **Mathematics** for Statistics, Probability, Number Theory, and Geometry
 
 -------
 <h3 align="center">🍎 About Me</h3>
 
-- ⚡ Software Engineer Intern at [Sennovate](https://sennovate.com/)
-- 🔬 Research Lead (Machine Learning Group) at [Tech4Good Social Computing Laboratory](https://tech4good.soe.ucsc.edu/#)
+- ⚡ Software Engineering Intern at [Sennovate](https://sennovate.com/)
+- 🔬 Lead Machine Learning Researcher at [Tech4Good Social Computing Laboratory](https://tech4good.soe.ucsc.edu/#)
 - 📬 Reach out to me @ [`vbharath@ucsc.edu`](mailto:vbharath@ucsc.edu) to chat!
