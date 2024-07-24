@@ -10,5 +10,5 @@
 <h3 align="center">🍎 About Me</h3>
 
 - 🔱 Studying Computer Science & Mathematics @ UC San Diego
-- ⚡ Software Engineering Intern at Instarails working on Backend and Payments
+- ⚡ Software Engineering Intern @ Instarails
 - 📬 Reach out to me @ [`vishruth [at] ucsd.edu`](mailto:vishruth@ucsd.edu) to chat!
